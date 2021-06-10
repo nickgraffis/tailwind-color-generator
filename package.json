@@ -1,0 +1,33 @@
+{
+  "name": "tailwind-color-generator",
+  "version": "1.0.1",
+  "description": "Generate 10 colors that step up in saturation and light from 50 - 900 based on one color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgraffis/tailwind-color-generator.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "colors",
+    "generator",
+    "hsl",
+    "saturation",
+    "light",
+    "tone",
+    "shade"
+  ],
+  "author": "Nick Graffis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickgraffis/tailwind-color-generator/issues"
+  },
+  "peerDependencies": {
+    "tailwindcss": "2.x"
+  },
+  "homepage": "https://github.com/nickgraffis/tailwind-color-generator#readme"
+}
