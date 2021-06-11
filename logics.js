@@ -94,7 +94,6 @@ const hexToHSL = (hex) => {
   const shade = (color, saturationFactor, lightFactor) => {
     let s = saturationFactor
     let l = lightFactor
-    console.log(s, l)
     let hsl = hexToHSL(color)
     let start = whereToStart(hsl.l, 's')
     let currentS = hsl.s
