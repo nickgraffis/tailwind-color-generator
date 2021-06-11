@@ -1,2 +1,5 @@
-# tailwind-color-generator
-Generate 10 colors that step up in saturation and light from 50 - 900 based on one color. 
+# <div align="center">  <img width="100" alt="portfolio_view" src="palette.svg"> <br> Tailwind Color Palette Generator
+</div>
+
+## <div align="center">_Turn one color into ten!_</div>
+
